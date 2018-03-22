@@ -1,4 +1,35 @@
 .fancy{
     font-family:cursive;
-    color: orangered;
+    color: purple;
+    padding-right: 90px;
+    padding-left: 60px;
+}
+.sassy{
+    font-family:cursive;
+    color: purple;
+}
+.jazzy{
+    font-family:cursive;
+    color: orchid;
+    font-size: 30px;
+    text-align: center;
+}
+#serious{
+    font-family: Courier;
+    text-align: center;
+    color: #8C8C8C;
+    font-size: 60px;
+    font-weight: bolder;
+}
+#bottom{
+    font-family: serif;
+}
+img{
+	display: block;
+	height: 300px;
+	width: 300px;
+	margin: auto;
+}
+body{
+    background-color: lightseagreen;
 }
